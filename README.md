@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 
 This project is part of The Odin Project's Foundations course. The goal of this project is to practice and demonstrate the HTML skills learned so far by building a simple recipe website. The website will feature a home page with links to individual recipe pages, each containing details about the recipe, including a description, ingredients, and cooking steps.
 
